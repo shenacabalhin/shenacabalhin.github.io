@@ -1,0 +1,7 @@
+# robots.txt for Shena Cabalhin's portfolio
+# Update the Sitemap URL below once the site is deployed to its real domain.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml

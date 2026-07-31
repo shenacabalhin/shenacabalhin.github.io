@@ -1,0 +1,1 @@
+Replace this file with your actual resume.pdf (keep the filename 'resume.pdf' so the Download Resume button keeps working, or update the href in index.html if you rename it).
